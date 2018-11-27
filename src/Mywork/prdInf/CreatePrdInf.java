@@ -344,7 +344,7 @@ public class CreatePrdInf extends javax.swing.JFrame {
         
         jTextField1.setText("Testing 1 2 3 ");
         jTextArea1.setText("Testing 1 2 3");
-        jTextField2.setText("");
+        jTextField2.setText("Testing 1 2 3");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
